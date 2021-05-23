@@ -2,7 +2,6 @@
 > This is a simple Hello World Project
 
 ## Built With
-
 - HTML
 ## Getting Started
 
@@ -31,4 +30,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) licensed.
+This project is [MIT](./LICENSE) licensed.

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+.heading {
+  display: block;
+  margin: 25vh auto;
+  text-align: center;
+  font-size: 5em;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+@keyframes blink {
+  50% {
+    color: transparent;
+  }
+}
+
+.dot {
+  animation: 0.5s blink infinite;
+}
